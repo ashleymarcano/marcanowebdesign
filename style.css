@@ -8,3 +8,9 @@ body {
     width: 700px; margin: auto;
     background-color: rgb(213, 185, 171);
 }
+h1,h2,h3 {
+    text-align: center;
+}
+h3 {
+    text-transform: uppercase;
+}
