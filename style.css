@@ -30,8 +30,8 @@ nav ul {
 }
 nav ul li a {
     display: inline-block;
-    width: 80px;
-    background-color:rgb(138, 147, 183);
+    width: 100px;
+    background-color:rgb(191, 197, 219);
     color: rgb(111, 33, 111);
     font-weight: bold;
     padding: 10px;
