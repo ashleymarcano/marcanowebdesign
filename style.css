@@ -30,11 +30,12 @@ nav ul {
 }
 nav ul li a {
     display: inline-block;
-    background-color:rgb(245, 238, 242);
+    max-width: 40px;
+    background-color:rgb(210, 214, 231);
     color: rgb(111, 33, 111);
     font-weight: bold;
-    padding: 20px;
-    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    border: 1px solid rgb(59, 8, 18);
     text-decoration: none;
     margin-bottom: 5px;
     text-align: center;
