@@ -1,11 +1,10 @@
-#extraspecial {color: rgb(79, 11, 25)}
-.special {color: mediumvioletred;}
+#extraspecial {color: rgb(59, 8, 18)}
+.special {color: rgb(169, 17, 113);}
 body {color: black; font-family: Arial;}
 h1 {color: rgb(79, 11, 25);}
-h3 {color: rgb(128, 39, 128);}
+h3 {color: rgb(111, 33, 111);}
 p {line-height: 2em;}
 body {
     width: 700px; margin: auto;
-    background-color: rgb(213, 185, 171);
+    background-color: rgb(185, 156, 142);
 }
-h3 {text-transform: uppercase;}
