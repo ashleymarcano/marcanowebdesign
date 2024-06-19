@@ -8,7 +8,7 @@ html {
     color: rgb(46, 49, 134);
 }
 title {
-    font-family: "Nanum Gothic", sans-serif;
+    font-family: "Roboto Mono", monospace;
 }
 body {
     color: black; font-family: Arial;
@@ -17,7 +17,7 @@ h1 {
     color: rgb(79, 11, 25);
 }
 h2 {
-    font-family: "Nanum Gothic", sans-serif;
+    font-family: "Roboto Mono", monospace;
 }
 h3 {
     color: rgb(111, 33, 111);
