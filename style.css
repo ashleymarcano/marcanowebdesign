@@ -13,6 +13,9 @@ body {
 h1 {
     color: rgb(79, 11, 25);
 }
+h2 {
+    font-family: "Nanum Gothic", sans-serif;
+}
 h3 {
     color: rgb(111, 33, 111);
     font-family: "Albert Sans", sans-serif;
