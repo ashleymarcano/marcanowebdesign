@@ -11,7 +11,10 @@ title {
     font-family: "Ubuntu", sans-serif;
 }
 body {
-    color: black; font-family: Arial;
+    color: black;
+    font-family:"Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 h1 {
     color: rgb(79, 11, 25);
