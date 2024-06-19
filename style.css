@@ -7,6 +7,9 @@ html {
 .special {
     color: rgb(46, 49, 134);
 }
+title {
+    font-family: "Nanum Gothic", sans-serif;
+}
 body {
     color: black; font-family: Arial;
 }
